@@ -4,7 +4,9 @@ Quick and practical demo of doing OAuth2 on Pocketbase. This demo will use Googl
 
 ## Technical notes
 
+- Run `npm install` to install dependencies.
 - I already have setup Pocketbase infrastructure in https://api.buka.sh/v2
+- The main code to do that is on `https://github.com/sonyarianto/pocketbase-oauth2-demo/blob/main/src/App.svelte`
 
 ## License
 
