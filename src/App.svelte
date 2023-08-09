@@ -4,7 +4,7 @@
   async function signIn() {
     const pb = new PocketBase('https://api.buka.sh/v2');
 
-    const authData = await pb.collection('users').authWithOAuth2({ provider: 'google' });
+    const authData = await pb.collection('oauth_users').authWithOAuth2({ provider: 'google' });
 
     // after the above you can also access the auth data from the authStore
     
