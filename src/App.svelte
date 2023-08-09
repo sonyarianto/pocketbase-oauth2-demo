@@ -11,6 +11,8 @@
     console.log(pb.authStore.isValid);
     console.log(pb.authStore.token);
     console.log(pb.authStore.model.id);
+
+    console.log(authData);
   }
 </script>
 
