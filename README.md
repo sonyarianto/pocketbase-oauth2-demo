@@ -5,7 +5,7 @@ Quick and practical demo of doing OAuth2 on Pocketbase. This demo will use Googl
 ## Technical notes
 
 - Run `npm install` to install dependencies.
-- I already have setup Pocketbase infrastructure in https://api.buka.sh/v2. Want to setup nice Pocketbase infra on your system? Just contact me for consultation.
+- I already have setup Pocketbase infrastructure in https://api.buka.sh/v2. Want to setup nice Pocketbase infra on your server? Just contact me for consultation.
 - I already create Google credential for this demo. You can create one at https://console.developers.google.com/apis/credentials.
 - The main code to do that is on `https://github.com/sonyarianto/pocketbase-oauth2-demo/blob/main/src/App.svelte`.
 
